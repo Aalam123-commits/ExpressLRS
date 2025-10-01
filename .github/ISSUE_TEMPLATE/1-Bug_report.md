@@ -1,4 +1,5 @@
 ---
+#some necessary changes made#
 name: Bug Report
 about: You found a bug in ExpressLRS. 🐞
 labels: 'bug'
